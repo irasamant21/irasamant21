@@ -14,15 +14,15 @@ I enjoy working on projects that blend machine learning, social good, and fairne
 **HTML:** Used to support frontend integration of dashboards (e.g., Streamlit/Tableau embedding)  
 
 ## Data Science & Machine Learning
-**1. Pandas & NumPy:** Data cleaning, transformation, and exploratory data analysis in multiple projects
-**2. scikit-learn:** Model building, including logistic regression, decision trees, evaluation (F1-score, precision, recall)
-**3. TensorFlow:** Implemented neural network models in Break Through Tech coursework
-**4. Natural Language Processing (NLP):** Early work through ML labs at Cornell Tech’s AI Studio
+1. **Pandas & NumPy:** Data cleaning, transformation, and exploratory data analysis in multiple projects  
+2. **scikit-learn:** Model building, including logistic regression, decision trees, evaluation (F1-score, precision, recall)  
+3. **TensorFlow:** Implemented neural network models in Break Through Tech coursework  
+4. **Natural Language Processing (NLP):** Early work through ML labs at Cornell Tech’s AI Studio  
 
 ## Data Visualization & Dashboards
-**1. Matplotlib & Seaborn:** Visualized model results and trends in academic and project-based work
-**2. Tableau:** Built global movie/TV analytics dashboards using scraped data
-**3. Streamlit:** Developed interactive web apps for model outputs and dashboard visualizations (e.g., food gap & TV data)
+1. **Matplotlib & Seaborn:** Visualized model results and trends in academic and project-based work  
+2. **Tableau:** Built global movie/TV analytics dashboards using scraped data  
+3. **Streamlit:** Developed interactive web apps for model outputs and dashboard visualizations (e.g., food gap & TV data)  
 
 ## Key Projects 
 **Predictive Modeling of Emergency Food Gaps in NYC**
