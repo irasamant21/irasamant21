@@ -18,7 +18,7 @@ Matplotlib, Seaborn, Tableau, Streamlit
 **Tools & Environments:**  
 Jupyter Notebooks, VS Code, Git, GitHub, Power BI, Microsoft Excel
 
-## Key Projects 
+## 💼 Key Projects 
 **Predictive Modeling of Emergency Food Gaps in NYC**
 
 **Explore the code on [GitHub](https://github.com/irasamant21/Food-Gap-Regression)**
