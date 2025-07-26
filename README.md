@@ -7,22 +7,22 @@ I enjoy working on projects that blend machine learning, social good, and fairne
 ## Tech Stack
 🛠️ Tech Stack
 # Languages
--Python: Used in nearly all data science and machine learning projects, including logistic regression for food gap prediction and neural networks in Break Through Tech’s AI program
--Java: Implemented maze traversal algorithms and simulation-based projects in Data Structures & Algorithms
--SQL: Applied in structured data queries and database-driven exercises
--SAS: Used in regression analysis and statistical modeling during coursework in resource allocation and prediction
--HTML: Used to support frontend integration of dashboards (e.g., Streamlit/Tableau embedding)
+1. Python: Used in nearly all data science and machine learning projects, including logistic regression for food gap prediction and neural networks in Break Through Tech’s AI program
+2. Java: Implemented maze traversal algorithms and simulation-based projects in Data Structures & Algorithms
+3. SQL: Applied in structured data queries and database-driven exercises
+4. SAS: Used in regression analysis and statistical modeling during coursework in resource allocation and prediction
+5. HTML: Used to support frontend integration of dashboards (e.g., Streamlit/Tableau embedding)
 
 # Data Science & Machine Learning
--Pandas & NumPy: Data cleaning, transformation, and exploratory data analysis in multiple projects
--scikit-learn: Model building, including logistic regression, decision trees, evaluation (F1-score, precision, recall)
--TensorFlow: Implemented neural network models in Break Through Tech coursework
--Natural Language Processing (NLP): Early work through ML labs at Cornell Tech’s AI Studio
+1. Pandas & NumPy: Data cleaning, transformation, and exploratory data analysis in multiple projects
+2. scikit-learn: Model building, including logistic regression, decision trees, evaluation (F1-score, precision, recall)
+3. TensorFlow: Implemented neural network models in Break Through Tech coursework
+4. Natural Language Processing (NLP): Early work through ML labs at Cornell Tech’s AI Studio
 
 # Data Visualization & Dashboards
--Matplotlib & Seaborn: Visualized model results and trends in academic and project-based work
--Tableau: Built global movie/TV analytics dashboards using scraped data
--Streamlit: Developed interactive web apps for model outputs and dashboard visualizations (e.g., food gap & TV data)
+1. Matplotlib & Seaborn: Visualized model results and trends in academic and project-based work
+2. Tableau: Built global movie/TV analytics dashboards using scraped data
+3. Streamlit: Developed interactive web apps for model outputs and dashboard visualizations (e.g., food gap & TV data)
 
 ## Key Projects 
 Predictive Modeling of Emergency Food Gaps in NYC
