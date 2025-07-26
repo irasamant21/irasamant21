@@ -2,6 +2,8 @@
 ## About Me 👋
 
 Hi, I’m **Ira Samant**, 
+![Ira Samant](https://raw.githubusercontent.com/irasamant21/irasamant21/main/profile-pic.png)
+
 
 I am a Data Science student at UNC Charlotte, with a minor in Actuarial Mathematics. I’m passionate about using data to uncover insights, build ethical models, and drive impact across areas like finance, food access, and education.
 I enjoy working on projects that blend machine learning, social good, and fairness in AI. Whether it’s building a logistic regression model to predict food insecurity or designing decision tree classifiers to detect unethical behavior, I focus on creating work that’s both technically sound and ethically thoughtful.
