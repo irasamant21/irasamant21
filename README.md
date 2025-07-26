@@ -26,17 +26,23 @@ I enjoy working on projects that blend machine learning, social good, and fairne
 
 ## Key Projects 
 Predictive Modeling of Emergency Food Gaps in NYC
-🔗 GitHub Repo
+
+Explore the code on [GitHub](https://github.com/irasamant21/Food-Gap-Regression)
+
 Built a logistic regression model to identify NYC neighborhoods at risk of food insecurity during crises. Used real-world open data, applied data cleaning, EDA, and evaluated the model with precision, recall, and F1-score.
 Tech Used: Python, Pandas, scikit-learn, Seaborn
 
 Streaming Analytics: Global Movies & TV Trends
-🔗 GitHub Repo
+
+View the dashboard project on [GitHub](https://github.com/irasamant21/gdp-dashboard-movie-data)
+
 Scraped Box Office Mojo data to analyze global movie earnings. Built a Tableau dashboard and created a Streamlit app integrating TV and film analytics to guide content strategies.
 Tech Used: Python (web scraping), Streamlit, Tableau
 
 Break Through Tech AI Studio Capstone (In Progress)
+
 Currently preparing for an applied AI capstone project in the fall as part of Cornell Tech’s year-long AI Studio Fellowship. Will collaborate with industry partners like Google and Microsoft on a real-world machine learning problem with ethical impact.
+
 Planned Focus: NLP, fairness, model deployment
 
 ## Interests and Hobbies 
@@ -48,6 +54,7 @@ Planned Focus: NLP, fairness, model deployment
 
 ## Connect with me !!
 LinkedIn - [LinkedIn](https://linkedin.com/in/irasamant21)!
+
 You can reach me at [irasamant@gmail.com](mailto:irasamant@gmail.com)
 
 
