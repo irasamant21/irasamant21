@@ -46,7 +46,7 @@ Currently preparing for an applied AI capstone project in the fall as part of Co
 Planned Focus: NLP, fairness, model deployment
 
 ## Interests and Hobbies 
-1.** Cricket** — Avid player and fan, enjoy the strategy and teamwork of the game
+1. **Cricket** — Avid player and fan, enjoy the strategy and teamwork of the game
 
 2. **Horseback Riding** — Passionate about riding and spending time outdoors with horses
 
