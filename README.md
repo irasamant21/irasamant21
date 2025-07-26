@@ -7,11 +7,11 @@ I enjoy working on projects that blend machine learning, social good, and fairne
 ## Tech Stack
 🛠️ Tech Stack
 ## Languages
-**1. Python:** Used in nearly all data science and machine learning projects, including logistic regression for food gap prediction and neural networks in Break Through Tech’s AI program
-**2. Java:** Implemented maze traversal algorithms and simulation-based projects in Data Structures & Algorithms
+**1. Python:** Used in nearly all data science and machine learning projects, including logistic regression for food gap prediction and neural networks in Break Through Tech’s AI program ***
+**2. Java:** Implemented maze traversal algorithms and simulation-based projects in Data Structures & Algorithms ***
 **3. SQL:** Applied in structured data queries and database-driven exercises
-**4. SAS:** Used in regression analysis and statistical modeling during coursework in resource allocation and prediction
-**5. HTML:** Used to support frontend integration of dashboards (e.g., Streamlit/Tableau embedding)
+**4. SAS:** Used in regression analysis and statistical modeling during coursework in resource allocation and prediction***
+**5. HTML:** Used to support frontend integration of dashboards (e.g., Streamlit/Tableau embedding)***
 
 ## Data Science & Machine Learning
 **1. Pandas & NumPy:** Data cleaning, transformation, and exploratory data analysis in multiple projects
