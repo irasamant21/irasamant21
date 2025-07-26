@@ -1,16 +1,53 @@
-## Hi there 👋
+### Welcome To My GitHub !!!
+## About Me 👋
 
-<!--
-**irasamant21/irasamant21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Ira Samant, A Data Science student at UNC Charlotte, with a minor in Actuarial Mathematics. I’m passionate about using data to uncover insights, build ethical models, and drive impact across areas like finance, food access, and education.
+I enjoy working on projects that blend machine learning, social good, and fairness in AI. Whether it’s building a logistic regression model to predict food insecurity or designing decision tree classifiers to detect unethical behavior, I focus on creating work that’s both technically sound and ethically thoughtful.
 
-Here are some ideas to get you started:
+## Tech Stack
+🛠️ Tech Stack
+# Languages
+-Python: Used in nearly all data science and machine learning projects, including logistic regression for food gap prediction and neural networks in Break Through Tech’s AI program
+-Java: Implemented maze traversal algorithms and simulation-based projects in Data Structures & Algorithms
+-SQL: Applied in structured data queries and database-driven exercises
+-SAS: Used in regression analysis and statistical modeling during coursework in resource allocation and prediction
+-HTML: Used to support frontend integration of dashboards (e.g., Streamlit/Tableau embedding)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Data Science & Machine Learning
+-Pandas & NumPy: Data cleaning, transformation, and exploratory data analysis in multiple projects
+-scikit-learn: Model building, including logistic regression, decision trees, evaluation (F1-score, precision, recall)
+-TensorFlow: Implemented neural network models in Break Through Tech coursework
+-Natural Language Processing (NLP): Early work through ML labs at Cornell Tech’s AI Studio
+
+# Data Visualization & Dashboards
+-Matplotlib & Seaborn: Visualized model results and trends in academic and project-based work
+-Tableau: Built global movie/TV analytics dashboards using scraped data
+-Streamlit: Developed interactive web apps for model outputs and dashboard visualizations (e.g., food gap & TV data)
+
+## Key Projects 
+Predictive Modeling of Emergency Food Gaps in NYC
+🔗 GitHub Repo
+Built a logistic regression model to identify NYC neighborhoods at risk of food insecurity during crises. Used real-world open data, applied data cleaning, EDA, and evaluated the model with precision, recall, and F1-score.
+Tech Used: Python, Pandas, scikit-learn, Seaborn
+
+Streaming Analytics: Global Movies & TV Trends
+🔗 GitHub Repo
+Scraped Box Office Mojo data to analyze global movie earnings. Built a Tableau dashboard and created a Streamlit app integrating TV and film analytics to guide content strategies.
+Tech Used: Python (web scraping), Streamlit, Tableau
+
+Break Through Tech AI Studio Capstone (In Progress)
+Currently preparing for an applied AI capstone project in the fall as part of Cornell Tech’s year-long AI Studio Fellowship. Will collaborate with industry partners like Google and Microsoft on a real-world machine learning problem with ethical impact.
+Planned Focus: NLP, fairness, model deployment
+
+## Interests and Hobbies 
+1. Cricket — Avid player and fan, enjoy the strategy and teamwork of the game
+
+2. Horseback Riding — Passionate about riding and spending time outdoors with horses
+
+3. Hiking & Nature — Love exploring trails and connecting with nature on hikes
+
+## Connect with me !!
+LinkedIn - [LinkedIn](https://linkedin.com/in/irasamant21)!
+You can reach me at [irasamant@gmail.com](mailto:irasamant@gmail.com)
+
+
